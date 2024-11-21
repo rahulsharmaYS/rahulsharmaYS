@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML, Opencv, DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahulsharmaYS?tab=repositories](https://github.com/rahulsharmaYS?tab=repositories)
+- 👨‍💻 All of my projects are available at [repos](https://github.com/rahulsharmaYS?tab=repositories)
 
 - 📫 How to reach me **rahulsharmays97@gmail.com**
 
